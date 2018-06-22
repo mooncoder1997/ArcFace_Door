@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/libarcsoft_fsdk_face_detection.dll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libarcsoft_fsdk_face_recognition.dll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/jna-4.4.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/mysql_connector_java_5.1.36_bin.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFD_FSDKLibrary.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFD_FSDK_FACERES.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFD_FSDK_Version.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFR_FSDKLibrary.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFR_FSDK_FACEINPUT.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFR_FSDK_FACEMODEL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/AFR_FSDK_Version.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/ASVLOFFSCREEN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/ASVL_COLOR_FORMAT.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/CLibrary.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/FaceInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/LoadUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/MRECT.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/_AFD_FSDK_OrientCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/_AFD_FSDK_OrientPriority.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/utils/BufferInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/why/utils/ImageLoader.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
