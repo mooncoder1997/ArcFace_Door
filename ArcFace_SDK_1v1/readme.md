@@ -1,4 +1,4 @@
-# ArcFace_SDK 1v1对比
+# ArcFace_SDK V1.1 1v1对比
 
 ## 功能：
  - 1v1图片对比
